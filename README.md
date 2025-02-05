@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tokadev011
 - 👀 I’m interested in programming and building software.
-- 🌱 I’m currently learning web programming in javascript.
+- 🌱 I’m currently learning web programming in Python.
 - 💞️ I’m looking to collaborate on different project that will challenge and improve my skills.
-- ⚡ Fun fact: I learned C++ as my introduction to programming, of course I have superpowers.
+- ⚡ Fun fact: C++ was my introduction to programming, of course I have superpowers.
